@@ -80,3 +80,8 @@ Esto eliminará los contenedores de Odoo y PostgreSQL, pero conservará la base 
    Luego cierra sesión y vuelve a iniciar sesión para que los cambios surtan efecto.
 
 2. **Problemas con el puerto 8069**: Si el puerto 8069 está en uso, puedes cambiarlo en el archivo `docker-compose.yml`.
+
+# contrase y usuario
+```
+admin
+```
